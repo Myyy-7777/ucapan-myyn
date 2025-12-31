@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Untuk Myy 🤍</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      background: linear-gradient(180deg, #0b1c2d, #081521);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #eaf2ff;
+    }
+    .box {
+      max-width: 700px;
+      padding: 28px;
+      margin: 16px;
+      background: rgba(255,255,255,0.05);
+      border-radius: 16px;
+      line-height: 1.7;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.35);
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 26px;
+    }
+    .kode {
+      text-align: center;
+      margin-top: 24px;
+      opacity: 0.7;
+      letter-spacing: 2px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Hai, Myy 🤍</h1>
+
+    <p>berelaan ganggu waktunya,  
+    kada kerasaan 2025 handak lewat dah,  
+    dan 2026 kada lama lagi datang.</p>
+
+    <p>jujur, tahun ini agak berat bagiku.  
+    tapi di 2026 ini aku berjanji sama diriku sendiri  
+    bakal lebih fokus, bertumbuh,  
+    dan mencoba mengarahkan hidup ke jalan yang lebih benar.</p>
+
+    <p>semoga semua harapan yang kamu impikan  
+    pelan-pelan tercapai di 2026.  
+    teruslah tumbuh, terus maju,  
+    dan raih apa yang kamu inginkan.</p>
+
+    <p>aku akan menjadi saksi dari setiap prosesmu nanti.  
+    dan kalau suatu saat kamu lelah,  
+    ingat… ada seseorang di sini  
+    yang selalu percaya dan bangga sama kamu,  
+    di setiap langkah, keberhasilan,  
+    bahkan kegagalanmu.</p>
+
+    <p>terima kasih sudah jadi salah satu bagian terbaik  
+    di hidupku selama 2025.  
+    maaf atas semua kesalahanku sebelumnya 🙏🏻</p>
+
+    <div class="kode">2201</div>
+  </div>
+</body>
+</html>
